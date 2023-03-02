@@ -1,0 +1,5 @@
+Fruit Monthly Price Microservice
+http://localhost:8000/fruit-monthly-price/fruit/Banana/month/JAN
+
+Fruit Total Price Microservice
+http://localhost:8100/fruit-total-price/fruit/Banana/month/JAN/amount/100

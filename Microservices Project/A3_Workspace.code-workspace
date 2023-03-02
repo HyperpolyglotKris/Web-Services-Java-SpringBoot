@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "FruitMonthlyPrice"
+		},
+		{
+			"path": "FruitTotalPriceMicroservice"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.project.sourcePaths": [
+			"FruitTotalPrice",
+			"FruitTotalPriceMicroservice/src/main/java/com/a3/FruitTotalPrice"
+		]
+	}
+}
